@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
 
-################################################################################
-## Form generated from reading UI file 'YTDownloader.ui'
-##
-## Created by: Qt User Interface Compiler version 6.1.0
-##
-## WARNING! All changes made in this file will be lost when recompiling UI file!
-################################################################################
 from PyQt6.QtCore import QRect, QCoreApplication, QMetaObject, Qt
 from PyQt6.QtGui import *
 from PyQt6.QtWidgets import *
